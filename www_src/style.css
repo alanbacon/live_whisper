@@ -1,0 +1,10 @@
+.chatbox {
+  background-color: rgb(150, 150, 255);
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+.chatpara {
+  padding: 10px;
+  font-size: larger;
+}
